@@ -2,12 +2,12 @@
 
 ## Principe du jeu
 
-Dans ce jeu 2 équipes s'affrontent : L'équipe des Villageois 👦 et celle des Loups-Garous 🐺. Au début de la partie, chaque joueur reçoit une carte de rôle et la regarde avant de la poser devant lui, face cachée. La nuit tombe alors sur le village et les joueurs ferment les yeux. Durant cette nuit les différents rôle vont effectuer des actions chacun à leur tour en étant appelé par un meneur (qui peut aussi jouer !).
+Dans ce jeu 2 équipes s'affrontent : L'**équipe des Villageois 👦** et celle des Loups-Garous 🐺. Au début de la partie, chaque joueur reçoit une carte de rôle et la regarde avant de la poser devant lui, face cachée. La nuit tombe alors sur le village et les joueurs ferment les yeux. Durant cette nuit les différents rôle vont effectuer des actions chacun à leur tour en étant appelé par un meneur (qui peut aussi jouer !).
 
 Une fois la nuit passée, les joueurs ouvrent les yeux mais ne regardent pas leur carte. Ils ne peuvent alors pas être sûr de leur rôle et donc de leur équipe ! Les joueurs peuvent alors discuter des évènements qui se sont déroulés pendant la nuit pour essayer de déterminer leur rôle et enfin se mettre d'accord pour voter qui doit être exécuté.
 Durant la phase de discussion, tous les arguments sont autorisés. Vous pouvez donner votre rôle et dire exactement ce que vous avez fait et vu ou bien mentir sur toute la ligne.
 
-???+ note "Précision des règles."
+??? warning "Précision des règles."
     Pour la suite, ce sont les règles spécifiques au rôle qui prennent le dessus sur les règles générales expliquées.
 
 ### Le vote
@@ -16,11 +16,11 @@ Les joueurs comptent jusqu'à 3 et pointent tous du doigt n'importe quel joueur 
 
 ### Conditions de victoire
 
-Pour que l'équipe des Villageois 👦 l'emporte, au moins 1 Loup-Garou (ou Loup Alpha) doit mourir. Même si un membre de l'équipe des Villageois 👦 meure, à partir du moment où un Loup-Garou meure, la victoire est pour l'équipe des Villageois 👦.
+Pour que l'**équipe des Villageois 👦** l'emporte, au moins 1 Loup-Garou (ou Loup Alpha) doit mourir. Même si un membre de l'**équipe des Villageois 👦** meure, à partir du moment où un Loup-Garou meure, la victoire est pour l'**équipe des Villageois 👦**.
 
-Pour que l'équipe des Loups-Garous 🐺 gagnent, il faut donc qu'aucun Loup-Garou ou Loup Alpha ne meure.
+Pour que l'**équipe des Loups-Garous 🐺** gagnent, il faut donc qu'aucun Loup-Garou ou Loup Alpha ne meure.
 
-Le Sbire fait partie de l'équipe des Loups-Garous 🐺 mais n'en est pas un, il peut donc mourir et quand même remporter la partie.
+Le Sbire fait partie de l'**équipe des Loups-Garous 🐺** mais n'en est pas un, il peut donc mourir et quand même remporter la partie.
 
 Le Doppelgänger fait partie de l'équipe pour dont il a copié le rôle.
 
