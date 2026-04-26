@@ -1,4 +1,6 @@
-site_name: Documentation
+site_name: Règles du Loup Garou Pour Une Nuit
+# site_url: https://log1k-png.github.io/LGPUN_rules/
+use_directory_urls: true
 theme:
   name: material
 markdown_extensions:
