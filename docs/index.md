@@ -1,4 +1,4 @@
-# Règles du Loup Garou Pour Une Nuit (LGPUN)
+# Règles du Loup Garou Pour Une Nuit
 
 ## Principe du jeu
 
@@ -7,7 +7,7 @@ Dans ce jeu 2 équipes s'affrontent : L'équipe des Villageois 👦 et celle des
 Une fois la nuit passée, les joueurs ouvrent les yeux mais ne regardent pas leur carte. Ils ne peuvent alors pas être sûr de leur rôle et donc de leur équipe ! Les joueurs peuvent alors discuter des évènements qui se sont déroulés pendant la nuit pour essayer de déterminer leur rôle et enfin se mettre d'accord pour voter qui doit être exécuté.
 Durant la phase de discussion, tous les arguments sont autorisés. Vous pouvez donner votre rôle et dire exactement ce que vous avez fait et vu ou bien mentir sur toute la ligne.
 
-???+ note Précision des règles.
+???+ note "Précision des règles."
     Pour la suite, ce sont les règles spécifiques au rôle qui prennent le dessus sur les règles générales expliquées.
 
 ### Le vote

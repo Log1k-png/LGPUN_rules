@@ -6,7 +6,7 @@ theme:
   palette:
     scheme: slate
 nav:
-  - Home: index.md
+  - Français: index.md
 markdown_extensions:
   - admonition
   - pymdownx.superfences
