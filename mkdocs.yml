@@ -2,7 +2,9 @@ site_name: Règles du Loup Garou Pour Une Nuit
 site_url: https://log1k-png.github.io/LGPUN_rules/
 use_directory_urls: true
 theme:
-  name: slate
+  name: material
+  palette:
+    scheme: slate
 nav:
   - Home: index.md
 markdown_extensions:
