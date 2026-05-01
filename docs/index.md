@@ -24,6 +24,28 @@ Le Sbire fait partie de l'**équipe des Loups-Garous 🐺** mais n'en est pas un
 
 Le Doppelgänger fait partie de l'équipe pour dont il a copié le rôle.
 
+## Ordre d'appel
+
+Pour rappel, la personne qui fait meneur, peut aussi jouer (si il y arrive les yeux fermés évidemment).
+
+<!-- no toc -->
+1. [Marchand de Sable](#marchand-de-sable)
+2. [Doppelgänger](#doppelgänger)
+3. [Loups-Garous](#loups-garous)
+4. [Loup Alpha](#loup-alpha)
+5. [Sbire](#sbire)
+6. [La Chose](#la-chose)
+7. [Les Sœurs](#les-sœurs)
+8. [Voyante](#voyante)
+9. [Apprentie Princesse](#apprentie-princesse)
+10. [Chasseur de Fantômes](#chasseur-de-fantômes)
+11. [Voleur](#voleur)
+12. [Sorcière](#sorcière)
+13. [Noiseuse](#noiseuse)
+14. [Soûlard](#soûlard)
+15. [Insomniaque](#insomniaque)
+16. [Divinateur](#divinateur)
+
 ## Explication des rôles
 
 ### Marchand de Sable
