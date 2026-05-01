@@ -151,6 +151,8 @@ L'Apprentie Princesse se réveille et regarde une carte face cachée au milieu d
 
 **👦/🐺/👞 Équipe changeante**.
 
+![Chasseur de Fantômes](images/Chasseur_de_Fantome.png)
+
 Lorsque le Chasseur de Fantômes se réveille il peut regarder jusqu'à 2 cartes d'autres joueurs, l'une après l'autre. En revanche si il découvre une carte de [Tanneur](#tanneur) ou de Loup, son tour s'arrête immédiatement et il copie le rôle du personnage, sans en copier les pouvoirs.
 
 !!! info "Précision des règles."
