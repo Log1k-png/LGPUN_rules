@@ -30,7 +30,7 @@ Le Doppelgänger fait partie de l'équipe pour dont il a copié le rôle.
 
 **👦 Équipe Villageois**.
 
-![Marchand de Sable](images/Marchand_de_Sable.png){ align=left }
+![Marchand de Sable](images/Marchand_de_Sable.png){ align=left, width=300 }
 
 Le Marchand de Sable se réveille en premier et va toucher la main d'un autre joueur. Ce joueur ne se réveillera pas pendant la nuit, sous aucune raison.
 
