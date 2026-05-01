@@ -16,13 +16,16 @@ Les joueurs comptent jusqu'à 3 et pointent tous du doigt n'importe quel joueur 
 
 ### Conditions de victoire
 
-Pour que l'**équipe des Villageois 👦** l'emporte, au moins 1 Loup-Garou (ou Loup Alpha) doit mourir. Même si un membre de l'**équipe des Villageois 👦** meurt, à partir du moment où un Loup-Garou meurt, la victoire est pour l'**équipe des Villageois 👦**.
+Pour que l'**équipe des Villageois 👦** l'emporte, au moins 1 [Loup-Garou](#loups-garous) (ou [Loup Alpha](#loup-alpha)) doit mourir. Même si un membre de l'**équipe des Villageois 👦** meurt, à partir du moment où un Loup meurt, la victoire est pour l'**équipe des Villageois 👦**.
 
-Pour que l'**équipe des Loups-Garous 🐺** gagnent, il faut donc qu'aucun Loup-Garou ou Loup Alpha ne meure.
+Pour que l'**équipe des Loups-Garous 🐺** gagnent, il faut donc qu'aucun [Loup-Garou](#loups-garous) ou [Loup Alpha](#loup-alpha) ne meure.
 
-Le Sbire fait partie de l'**équipe des Loups-Garous 🐺** mais n'en est pas un, il peut donc mourir et quand même remporter la partie.
+Le [Sbire](#sbire) fait partie de l'**équipe des Loups-Garous 🐺** mais n'en est pas un, il peut donc mourir et quand même remporter la partie.
 
 Le Doppelgänger fait partie de l'équipe pour dont il a copié le rôle.
+
+!!! warning "Rôle du [Tanneur](#tanneur)."
+    Les conditions de victoire changent si vous jouez avec le [Tanneur](#tanneur).
 
 ## Ordre d'appel
 
@@ -46,6 +49,9 @@ Pour rappel, la personne qui fait meneur, peut aussi jouer (si il y arrive les y
 15. [Insomniaque](#insomniaque)
 16. [Divinateur](#divinateur)
 
+!!! warning "[Doppelgänger](#doppelgänger) et [Divinateur](#divinateur)"
+    Si ces 2 rôles sont présents, alors il faut ré-appeler le [Doppelgänger](#doppelgänger) après le [Divinateur](#divinateur) au cas où il aurait copié son rôle.
+
 ## Explication des rôles
 
 ### Marchand de Sable
@@ -62,7 +68,7 @@ Le Marchand de Sable se réveille en premier et va toucher la main d'un autre jo
 
 ![Doppelgänger](images/Doppelganger.png)
 
-Le Doppelgänger se réveille au début de la nuit et va regarder la carte d'un autre joueur pour copier son rôle. Si le rôle implique une action nocturne (autre que les Loups-Garous), il la fait immédiatement (sauf s'il a co copié le rôle du Divinateur).
+Le Doppelgänger se réveille au début de la nuit et va regarder la carte d'un autre joueur pour copier son rôle. Si le rôle implique une action nocturne (autre que les [Loups-Garous](#loups-garous)), il la fait immédiatement (sauf s'il a copié le rôle du [Divinateur](#divinateur), il le fait à la toute fin).
 
 S'il est Loup-Garou alors il se réveillera comme un Loup-Garou normal pendant leur tour.
 
@@ -90,11 +96,11 @@ Si un Loup se réveille et est seul, alors il a le droit de regarder une des 3 c
 !!! info "Mise en place."
     Pour mettre en place le Loup Alpha il faut ajouter une carte de Loup-Garou, face cachée et tournée de 90 degrés par rapport aux 3 cartes au centre.
 
-Le Loup Alpha se réveille en même temps que les autres Loups-Garous mais va ensuite se réveiller au tour d'après et devra échanger la carte de Loup mise de côté avec celle de n'importe quel joueur non Loup.
+Le Loup Alpha se réveille en même temps que les autres [Loups-Garous](#loups-garous) mais va ensuite se réveiller au tour d'après et devra échanger la carte de Loup mise de côté avec celle de n'importe quel joueur non Loup.
 
-Le Loup Alpha ne peut pas indiquer aux autres Loups-Garous qu'il est l'Alpha pendant la nuit.
+Le Loup Alpha ne peut pas indiquer aux autres [Loups-Garous](#loups-garous) qu'il est l'Alpha pendant la nuit.
 
-De la même manière que les Loups-Garous, si lorsqu'il se réveille avec les Loups-Garous il est seul, alors il a le droit de regarder une des 3 cartes faces cachées au milieu.
+De la même manière que les [Loups-Garous](#loups-garous), si lorsqu'il se réveille avec les [Loups-Garous](#loups-garous) il est seul, alors il a le droit de regarder une des 3 cartes faces cachées au milieu.
 
 ### Sbire
 
@@ -102,7 +108,7 @@ De la même manière que les Loups-Garous, si lorsqu'il se réveille avec les Lo
 
 ![Sbire](images/Sbire.png)
 
-Lorsque le Sbire se réveille, tous les Loups doivent lever la main (Loups-Garous et Loup Alpha). Le Sbire sait alors qui sont les Loups mais les Loups ne savent pas qu'il est leur allié.
+Lorsque le Sbire se réveille, tous les Loups doivent lever la main ([Loups-Garous](#loups-garous) et [Loup Alpha](#loup-alpha)). Le Sbire sait alors qui sont les Loups mais les Loups ne savent pas qu'il est leur allié.
 
 Le Sbire faisant partie de l'**équipe des Loups-Garous 🐺** mais n'étant pas un Loup, alors s'il meurt mais qu'aucun Loup ne meure, il remporte la partie.
 
@@ -145,10 +151,10 @@ L'Apprentie Princesse se réveille et regarde une carte face cachée au milieu d
 
 **👦/🐺/👞 Équipe changeante**.
 
-Lorsque le Chasseur de Fantômes se réveille il peut regarder jusqu'à 2 cartes d'autres joueurs, l'une après l'autre. En revanche si il découvre une carte de Tanneur ou de Loup, son tour s'arrête immédiatement et il copie le rôle du personnage, sans en copier les pouvoirs.
+Lorsque le Chasseur de Fantômes se réveille il peut regarder jusqu'à 2 cartes d'autres joueurs, l'une après l'autre. En revanche si il découvre une carte de [Tanneur](#tanneur) ou de Loup, son tour s'arrête immédiatement et il copie le rôle du personnage, sans en copier les pouvoirs.
 
 !!! info "Précision des règles."
-     Si le chasseur de fantômes découvre le Doppelgänger, il ne peut pas savoir quel rôle est copié, alors il l'interprète comme un simple Villageois.
+     Si le chasseur de fantômes découvre le [Doppelgänger](#doppelgänger), il ne peut pas savoir quel rôle est copié, alors il l'interprète comme un simple Villageois.
 
 ### Voleur
 
@@ -196,7 +202,7 @@ L'Insomniaque se réveille et regarde la carte devant lui. Il connaît donc son 
 
 ![Divinateur](images/Divinateur.png)
 
-Le Divinateur se réveille et va retourner la carte de n'importe quel joueur pour qu'elle soit face visible au levé du jour. Si la carte dévoilée est une carte de Loup ou de Tanneur, il la remet face cachée.
+Le Divinateur se réveille et va retourner la carte de n'importe quel joueur pour qu'elle soit face visible au levé du jour. Si la carte dévoilée est une carte de Loup ou de [Tanneur](#tanneur), il la remet face cachée.
 
 ### Chasseur
 
@@ -220,7 +226,7 @@ La personne pour laquelle le Garde a voté ne peut pas mourir. Si la personne pr
 
 ![Tanneur](images/Tanneur.png)
 
-Le Tanneur est seul et a pour unique but de mourir lors du vote. Si il meurt et qu'un Loup meurt alors l'**équipe des Villageois 👦** a gagné, ainsi que le Tanneur. Si aucun Loup ne meurt et que la Tanneur meurt alors il est le seul a gagner.
+Le Tanneur est seul et a pour unique but de mourir lors du vote. Si il meurt et qu'un Loup meurt alors l'**équipe des Villageois 👦** a gagné, ainsi que le Tanneur. Si aucun Loup ne meurt et que la Tanneur meurt alors il est le seul à gagner.
 
 ### Pêcheur
 
