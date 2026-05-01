@@ -12,3 +12,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.emoji
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
