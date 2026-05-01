@@ -36,15 +36,18 @@ Le Marchand de Sable se réveille en premier et va toucher la main d'un autre jo
 
 ### Doppelgänger
 
-**👦/🐺 Équipe dépendante du rôle**.
+**👦/🐺/👞 Équipe changeante**.
 
 ![Doppelgänger](images/Doppelganger.png)
 
-Le Doppelgänger se réveille au début de la nuit et va regarder la carte d'un autre joueur pour copier son rôle. Si le rôle implique une action nocturne (autre que les Loups-Garous), il la fait immédiatement.
+Le Doppelgänger se réveille au début de la nuit et va regarder la carte d'un autre joueur pour copier son rôle. Si le rôle implique une action nocturne (autre que les Loups-Garous), il la fait immédiatement (sauf s'il a co copié le rôle du Divinateur).
 
 S'il est Loup-Garou alors il se réveillera comme un Loup-Garou normal pendant leur tour.
 
 Son équipe est celle du rôle qu'il a copié.
+
+!!! warning "Mouvement de la carte du Doppelgänger"
+    Même lorsqu'elle est déplacée, la carte du Doppelgänger garde le rôle qu'elle a copié.
 
 ### Loups-Garous
 
@@ -83,12 +86,124 @@ Le Sbire faisant partie de l'**équipe des Loups-Garous 🐺** mais n'étant pas
 
 Si le Sbire est présent mais qu'aucun Loup n'est en jeu, alors pour gagner il faut qu'un membre de l'**équipe des Villageois 👦** meurt.
 
+### La Chose
+
+**👦 Équipe Villageois**.
+
+![La Chose](images/La_Chose.png)
+
+Lorsque La Chose se réveille, elle va taper sur l'épaule d'un joueur à côté d'elle. Elle doit taper sur l'épaule droite de son voisin de gauche et inversement.
+
+### Les Sœurs
+
+**👦 Équipe Villageois**.
+
+![Sœur](images/Soeur.png)
+
+Les Sœurs se jouent toujours par 2.
+Lorsque Les Sœurs sont appelées elles se réveillent et se regardent et savent qu'elles sont ensemble. Si une Sœur se réveille et est seule alors cela veut dire que l'autre carte de Sœur est au milieu.
+
+### Voyante
+
+**👦 Équipe Villageois**.
+
+![Voyante](images/Voyante.png)
+
+La Voyante se réveille et regarde la carte de n'importe quelle autre joueur avant de la remettre à sa place.
+
 ### Apprentie Princesse
+
+**👦 Équipe Villageois**.
 
 ![Apprentie Princesse](images/Apprentie_Princesse.png)
 
+L'Apprentie Princesse se réveille et regarde une carte face cachée au milieu de la table.
+
+### Chasseur de Fantômes
+
+**👦/🐺/👞 Équipe changeante**.
+
+Lorsque le Chasseur de Fantômes se réveille il peut regarder jusqu'à 2 cartes d'autres joueurs, l'une après l'autre. En revanche si il découvre une carte de Tanneur ou de Loup, son tour s'arrête immédiatement et il copie le rôle du personnage, sans en copier les pouvoirs.
+
+!!! info "Précision des règles."
+     Si le chasseur de fantômes découvre le Doppelgänger, il ne peut pas savoir quel rôle est copié, alors il l'interprète comme un simple Villageois.
+
+### Voleur
+
+**👦 Équipe Villageois**.
+
+![Voleur](images/Voleur.png)
+
+La Voleur se réveille et peut échange **sa** carte avec celle de n'importe quel autre joueur et regarde la carte qu'il vole.
+
+### Sorcière
+
+**👦 Équipe Villageois**.
+
+![Sorcière](images/Sorciere.png)
+
+La Sorcière se réveille et peut regarder une des cartes au milieu de la table. Si elle regarde une carte au milieu, elle doit l'échanger avec celle de n'importe quel joueur (elle comprise).
+
+### Noiseuse
+
+**👦 Équipe Villageois**.
+
+![Noiseuse](images/Noiseuse.png)
+
+La Noiseuse se réveille et échange les cartes de 2 autres joueurs sans les regarder.
+
+### Soûlard
+
+**👦/🐺/👞 Équipe changeante**.
+
+![Soûlard](images/Soulard.png)
+
+La Soûlard se réveille et échange sa carte avec une des cartes au milieu de la table sans regarder. Il ne connaît donc pas son rôle et ne sait pas à quelle équipe il fait partie.
+
+### Insomniaque
+
+**👦 Équipe Villageois**.
+
+![Insomniaque](images/Insomniaque.png)
+
+L'Insomniaque se réveille et regarde la carte devant lui. Il connaît donc son rôle au levé du jour.
+
+### Divinateur
+
+**👦 Équipe Villageois**.
+
+![Divinateur](images/Divinateur.png)
+
+Le Divinateur se réveille et va retourner la carte de n'importe quel joueur pour qu'elle soit face visible au levé du jour. Si la carte dévoilée est une carte de Loup ou de Tanneur, il la remet face cachée.
+
+### Chasseur
+
+**👦 Équipe Villageois**, **🌙 Ne se réveille pas**.
+
+![Chasseur](images/Chasseur.png)
+
+Si le Chasseur meurt, alors la personne pour laquelle il a voté meurt aussi.
+
+### Garde
+
+**👦 Équipe Villageois**, **🌙 Ne se réveille pas**.
+
+![Garde](images/Garde.png)
+
+La personne pour laquelle le Garde a voté ne peut pas mourir. Si la personne protégée est celle ayant reçue le plus de vote, alors a deuxième personne ayant le plus de votes meurt si elle en a au moins 2. Sinon personne ne meurt.
+
 ### Tanneur
 
-**👞 Équipe Tanneur**.
+**👞 Équipe Tanneur**, **🌙 Ne se réveille pas**.
 
 ![Tanneur](images/Tanneur.png)
+
+Le Tanneur est seul et a pour unique but de mourir lors du vote. Si il meurt et qu'un Loup meurt alors l'**équipe des Villageois 👦** a gagné, ainsi que le Tanneur. Si aucun Loup ne meurt et que la Tanneur meurt alors il est le seul a gagner.
+
+### Pêcheur
+
+**👦 Équipe Villageois**, **🌙 Ne se réveille pas**.
+
+![Pêcheur](images/Pecheur.png)
+
+Il est mignon mais ne sert à rien, inventez lui un rôle !
