@@ -85,7 +85,7 @@ Son équipe est celle du rôle qu'il a copié.
 
 Les Loups se réveillent ensemble et se reconnaissent. Ils savent alors combien ils sont et qui se trouve dans leur équipe au début de la partie.
 
-Si un Loup se réveille et est seul, alors il a le droit de regarder une des 3 cartes faces cachées au milieu.
+Si un Loup se réveille et est seul, alors pour compenser du désavantage, il a le droit de regarder une des 3 cartes faces cachées au milieu.
 
 ### Loup Alpha
 
@@ -229,6 +229,10 @@ La personne pour laquelle le Garde a voté ne peut pas mourir. Si la personne pr
 ![Tanneur](images/Tanneur.png)
 
 Le Tanneur est seul et a pour unique but de mourir lors du vote. Si il meurt et qu'un Loup meurt alors l'**équipe des Villageois 👦** a gagné, ainsi que le Tanneur. Si aucun Loup ne meurt et que la Tanneur meurt alors il est le seul à gagner.
+
+!!! info "Plusieurs Tanneurs."
+    Si il y a plusieurs Tanneurs, ils sont indépendants les uns des autres. Un Tanneur gagne uniquement si il meurt et non si un confrère meurt. Plusieurs Tanneurs peuvent gagner si ils sont plusieurs à mourir.
+
 
 ### Pêcheur
 
