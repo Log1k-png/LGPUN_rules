@@ -1,97 +1,63 @@
 /* ===========================
-   GLOBAL TYPOGRAPHY
+   BASE IMAGE STYLE
 =========================== */
 
-.md-typeset {
-    font-size: 1rem;
-    line-height: 1.65;
+.md-typeset p:has(img) {
+    text-align: center;
 }
 
-/* Headings spacing (clean section separation) */
-.md-typeset h3 {
-    margin-top: 2.8rem;
-    margin-bottom: 0.8rem;
-    padding-top: 1rem;
-    border-top: 1px solid rgba(0, 0, 0, 0.08);
-}
-
-/* ===========================
-   IMAGES (MAIN FOCUS)
-=========================== */
-
-.md-typeset img {
+/* image base */
+.md-typeset p:has(img) img {
     display: block;
+
+    max-width: 380px;
     width: 100%;
-    max-width: 420px;   /* keeps portraits under control */
     height: auto;
 
-    margin: 1.2rem auto;
+    margin: 1.5rem auto;
 
     border-radius: 14px;
-    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 10px 26px rgba(0, 0, 0, 0.18);
 
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-/* subtle hover effect (nice on desktop) */
-.md-typeset img:hover {
-    transform: scale(1.02);
-    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    transform-origin: center;
 }
 
 /* ===========================
-   ROLE LABELS (your bold line)
+   DEFAULT HOVER (fallback)
 =========================== */
 
-.md-typeset strong {
-    font-size: 1.05rem;
+.md-typeset p:has(img) img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 16px 38px rgba(0, 0, 0, 0.25);
 }
 
 /* ===========================
-   PARAGRAPHS
+   TRUE ALTERNATING TILT
 =========================== */
 
-.md-typeset p {
-    margin: 0.8em 0;
+/* odd image paragraphs → tilt left */
+.md-typeset p:has(img):nth-of-type(odd) img:hover {
+    transform: perspective(900px) rotateZ(-2deg) scale(1.03);
 }
 
-/* tighten spacing after images */
-.md-typeset p:has(img) {
-    margin-bottom: 0.5rem;
-}
-
-/* ===========================
-   LINKS (cleaner look)
-=========================== */
-
-.md-typeset a {
-    text-decoration: none;
-}
-
-.md-typeset a:hover {
-    text-decoration: underline;
+/* even image paragraphs → tilt right */
+.md-typeset p:has(img):nth-of-type(even) img:hover {
+    transform: perspective(900px) rotateZ(2deg) scale(1.03);
 }
 
 /* ===========================
-   OPTIONAL: subtle "card feel"
-   for each role section
-=========================== */
-
-.md-typeset h3 + p {
-    margin-top: 0.4rem;
-}
-
-/* ===========================
-   MOBILE OPTIMIZATION
+   MOBILE
 =========================== */
 
 @media (max-width: 900px) {
-    .md-typeset img {
+    .md-typeset p:has(img) img {
         max-width: 100%;
-        border-radius: 10px;
+        border-radius: 12px;
     }
 
-    .md-typeset h3 {
-        margin-top: 2rem;
+    .md-typeset p:has(img) img:hover {
+        transform: scale(1.02);
+        box-shadow: 0 10px 26px rgba(0, 0, 0, 0.18);
     }
 }
