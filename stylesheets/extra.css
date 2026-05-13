@@ -1,24 +1,35 @@
-.md-typeset img {
-    max-width: 45%;
-    height: auto;
-    margin: 1rem 0;
+.md-typeset p {
+    margin: 0.8em 0;
 }
 
-/* odd images -> left */
-.md-typeset p:nth-of-type(odd) img {
-    float: left;
-    margin-right: 1.5rem;
+/* image paragraph */
+.md-typeset p:has(img) {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
 }
 
-/* even images -> right */
-.md-typeset p:nth-of-type(even) img {
-    float: right;
-    margin-left: 1.5rem;
+/* image styling */
+.md-typeset p:has(img) img {
+    max-height: 50vh;
 }
 
-/* prevent layout breaking */
-.md-typeset p::after {
-    content: "";
-    display: block;
-    clear: both;
+/* text next to image */
+.md-typeset p:has(img) + p {
+    flex: 1;
+}
+
+/* alternate layout */
+.md-typeset p:has(img):nth-of-type(odd) {
+    flex-direction: row;
+}
+
+.md-typeset p:has(img):nth-of-type(even) {
+    flex-direction: row-reverse;
+}
+
+/* stop weird wrapping for following paragraphs */
+.md-typeset p:has(img) + p,
+.md-typeset p:has(img) + p + p {
+    margin-left: 0;
 }
