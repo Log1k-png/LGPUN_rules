@@ -58,7 +58,7 @@ Pour rappel, la personne qui fait meneur, peut aussi jouer (si il y arrive les y
 
 **👦 Équipe Villageois**.
 
-![Marchand de Sable](images/Marchand_de_Sable.png){ style="max-width:60%;max-height:50vh;" }
+![Marchand de Sable](images/Marchand_de_Sable.png)
 
 Le Marchand de Sable se réveille en premier et va toucher la main d'un autre joueur. Ce joueur ne se réveillera pas pendant la nuit, sous aucune raison.
 
@@ -143,7 +143,7 @@ La Voyante se réveille et regarde la carte de n'importe quelle autre joueur ava
 
 **👦 Équipe Villageois**.
 
-![Apprentie Princesse](images/Apprentie_Princesse.png){ align=left style="max-width:60%;max-height:50vh;" }
+![Apprentie Princesse](images/Apprentie_Princesse.png)
 
 L'Apprentie Princesse se réveille et regarde une carte face cachée au milieu de la table.
 
@@ -186,7 +186,7 @@ La Noiseuse se réveille et échange les cartes de 2 autres joueurs sans les reg
 
 **👦/🐺/👞 Équipe changeante**.
 
-![Soûlard](images/Soulard.png){ align=right style="max-width:60%;max-height:50vh;" }
+![Soûlard](images/Soulard.png)
 
 La Soûlard se réveille et échange sa carte avec une des cartes au milieu de la table sans regarder. Il ne connaît donc pas son rôle et ne sait pas à quelle équipe il fait partie.
 

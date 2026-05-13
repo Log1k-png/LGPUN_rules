@@ -1,0 +1,24 @@
+.md-typeset img {
+    max-width: 45%;
+    height: auto;
+    margin: 1rem 0;
+}
+
+/* odd images -> left */
+.md-typeset p:nth-of-type(odd) img {
+    float: left;
+    margin-right: 1.5rem;
+}
+
+/* even images -> right */
+.md-typeset p:nth-of-type(even) img {
+    float: right;
+    margin-left: 1.5rem;
+}
+
+/* prevent layout breaking */
+.md-typeset p::after {
+    content: "";
+    display: block;
+    clear: both;
+}
