@@ -54,6 +54,14 @@ Pour rappel, la personne qui fait meneur, peut aussi jouer (si il y arrive les y
 
 ## Explication des rôles
 
+!!! role "Marchand de Sable"
+
+    ![Marchand de Sable](images/Marchand_de_Sable.png)
+
+    Le Marchand de Sable se réveille en premier...
+
+    Il touche la main d'un autre joueur.
+    
 ### Marchand de Sable
 
 **👦 Équipe Villageois**.
