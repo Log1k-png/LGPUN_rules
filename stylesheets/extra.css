@@ -1,35 +1,28 @@
-.md-typeset p {
-    margin: 0.8em 0;
+.md-typeset .admonition.role {
+    border: none;
+    background: none;
+    box-shadow: none;
+    padding: 0;
 }
 
-/* image paragraph */
-.md-typeset p:has(img) {
-    display: flex;
+/* layout */
+.md-typeset .admonition.role > .admonition-content {
+    display: grid;
+    grid-template-columns: 320px 1fr;
     gap: 2rem;
-    align-items: flex-start;
+    align-items: start;
 }
 
-/* image styling */
-.md-typeset p:has(img) img {
-    max-height: 50vh;
+/* image */
+.md-typeset .admonition.role img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
 }
 
-/* text next to image */
-.md-typeset p:has(img) + p {
-    flex: 1;
-}
-
-/* alternate layout */
-.md-typeset p:has(img):nth-of-type(odd) {
-    flex-direction: row;
-}
-
-.md-typeset p:has(img):nth-of-type(even) {
-    flex-direction: row-reverse;
-}
-
-/* stop weird wrapping for following paragraphs */
-.md-typeset p:has(img) + p,
-.md-typeset p:has(img) + p + p {
-    margin-left: 0;
+/* mobile */
+@media (max-width: 900px) {
+    .md-typeset .admonition.role > .admonition-content {
+        grid-template-columns: 1fr;
+    }
 }
