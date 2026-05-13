@@ -1,28 +1,97 @@
-.md-typeset .admonition.role {
-    border: none;
-    background: none;
-    box-shadow: none;
-    padding: 0;
+/* ===========================
+   GLOBAL TYPOGRAPHY
+=========================== */
+
+.md-typeset {
+    font-size: 1rem;
+    line-height: 1.65;
 }
 
-/* layout */
-.md-typeset .admonition.role > .admonition-content {
-    display: grid;
-    grid-template-columns: 320px 1fr;
-    gap: 2rem;
-    align-items: start;
+/* Headings spacing (clean section separation) */
+.md-typeset h3 {
+    margin-top: 2.8rem;
+    margin-bottom: 0.8rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
 }
 
-/* image */
-.md-typeset .admonition.role img {
+/* ===========================
+   IMAGES (MAIN FOCUS)
+=========================== */
+
+.md-typeset img {
+    display: block;
     width: 100%;
+    max-width: 420px;   /* keeps portraits under control */
     height: auto;
-    border-radius: 8px;
+
+    margin: 1.2rem auto;
+
+    border-radius: 14px;
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* mobile */
+/* subtle hover effect (nice on desktop) */
+.md-typeset img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+}
+
+/* ===========================
+   ROLE LABELS (your bold line)
+=========================== */
+
+.md-typeset strong {
+    font-size: 1.05rem;
+}
+
+/* ===========================
+   PARAGRAPHS
+=========================== */
+
+.md-typeset p {
+    margin: 0.8em 0;
+}
+
+/* tighten spacing after images */
+.md-typeset p:has(img) {
+    margin-bottom: 0.5rem;
+}
+
+/* ===========================
+   LINKS (cleaner look)
+=========================== */
+
+.md-typeset a {
+    text-decoration: none;
+}
+
+.md-typeset a:hover {
+    text-decoration: underline;
+}
+
+/* ===========================
+   OPTIONAL: subtle "card feel"
+   for each role section
+=========================== */
+
+.md-typeset h3 + p {
+    margin-top: 0.4rem;
+}
+
+/* ===========================
+   MOBILE OPTIMIZATION
+=========================== */
+
 @media (max-width: 900px) {
-    .md-typeset .admonition.role > .admonition-content {
-        grid-template-columns: 1fr;
+    .md-typeset img {
+        max-width: 100%;
+        border-radius: 10px;
+    }
+
+    .md-typeset h3 {
+        margin-top: 2rem;
     }
 }
