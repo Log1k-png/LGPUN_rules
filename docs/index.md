@@ -85,7 +85,9 @@ Son équipe est celle du rôle qu'il a copié.
 
 Les Loups se réveillent ensemble et se reconnaissent. Ils savent alors combien ils sont et qui se trouve dans leur équipe au début de la partie.
 
-Si un Loup se réveille et est seul, alors pour compenser du désavantage, il a le droit de regarder une des 3 cartes faces cachées au milieu.
+Si un Loup se réveille et est seul, alors pour compenser du désavantage, il a le droit de regarder une des 3 cartes faces cachées au milieu. Il pourra se servir de cette information pour faire croire qu'il avait ce rôle en début de partie par exemple.
+
+Contrairement au jeu du Loup Garou classique, les Loups ne définissent pas de victime et ne peuvent pas communiquer.
 
 ### Loup Alpha
 
