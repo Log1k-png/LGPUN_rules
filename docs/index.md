@@ -58,7 +58,7 @@ Pour rappel, la personne qui fait meneur, peut aussi jouer (si il y arrive les y
 
 **👦 Équipe Villageois**.
 
-![Marchand de Sable](images/Marchand_de_Sable.png)
+![Marchand de Sable](images/Marchand_de_Sable.png){ align=left max-height="50vh"}
 
 Le Marchand de Sable se réveille en premier et va toucher la main d'un autre joueur. Ce joueur ne se réveillera pas pendant la nuit, sous aucune raison.
 
